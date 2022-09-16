@@ -7,5 +7,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jjlee78&show_icons=true&locale=en" alt="jjlee78" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jjlee78&" alt="jjlee78" /></p>
-<p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjlee78&show_icons=true&locale=en&layout=compact" alt="jjlee78" /></p>
